@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     EditText etWord;
     TextView tvQuote;
 
+    //change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
